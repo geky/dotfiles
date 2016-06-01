@@ -13,3 +13,5 @@ autocmd FileType * setlocal formatoptions-=c formatoptions-=r formatoptions-=o
 
 noremap <t_k1> <Nop>
 noremap! <t_k1> <Nop>
+
+set tags=tags;
